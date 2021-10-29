@@ -1,0 +1,10 @@
+body {
+    background-color: #f6f9ed;
+}
+.movies {
+    display:grid;
+    grid-template-columns:repeat(300px, 200px 300px);
+}
+.movie {
+    flex:1;
+}
